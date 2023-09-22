@@ -5,7 +5,7 @@
 }
 
 .email-button, .linkedin-button {
-  padding: 10px 25px;
+  padding: 8px 15px;
   border: none;
   border-radius: 5px;
 }
@@ -13,7 +13,7 @@
 .email-button {
   font-size: 18px;
   font-weight: 500;
-  background-color: #ffffff;
+  background-color: white;
 }
 
 .email-button img{
